@@ -2,7 +2,6 @@ class Circleci < Formula
   desc "Enables you to reproduce the CircleCI environment locally"
   homepage "https://circleci.com/docs/2.0/local-cli/"
   url "https://github.com/circleci/local-cli/releases/download/v0.1.0/circleci_v0.1.0.tar.gz"
-  version "0.1.0"
   sha256 "e6b86954c8ccb38ca16b77cfcd642a1be20c9fa471ed811c49f7105bcb96739c"
 
   bottle :unneeded
